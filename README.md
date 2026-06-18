@@ -43,6 +43,15 @@ Containerized Deployment: The web server and database are isolated into repeatab
 pip install -r requirements.txt
 python src/main.py
 ```
+If you are running the project on Windows with Docker Desktop active in the background, you do not need to install local Python dependencies manually.
+
+Navigate to the root directory of the project.
+
+Double-click the run.bat file.
+
+This batch script automatically triggers a detached orchestration command (docker-compose up --build -d) to cleanly build your FastAPI web engine, link it to your persistent PostgreSQL container infrastructure service, and map ports silently.
+
+Once the terminal scripts complete, open your browser and navigate immediately to:
 
 ## Demo Video
 
