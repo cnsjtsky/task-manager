@@ -40,8 +40,6 @@ Containerized Deployment: The web server and database are isolated into repeatab
 ## How to Run
 
 
-If you are running the project on Windows with Docker Desktop active in the background, you do not need to install local Python dependencies manually.
-
 Navigate to the root directory of the project.
 
 Double-click the run.bat file.
