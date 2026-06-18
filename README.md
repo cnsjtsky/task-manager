@@ -46,7 +46,7 @@ python src/main.py
 
 ## Demo Video
 
-Paste demo video link here.
+https://youtu.be/p0WUur5qCWY?si=fHWGvibPh39Q2kkR
 
 ## Report
 
